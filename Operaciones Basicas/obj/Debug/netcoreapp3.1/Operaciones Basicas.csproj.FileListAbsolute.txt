@@ -1,0 +1,13 @@
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.exe
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.deps.json
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.dll
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.pdb
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.dll
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.pdb
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.genruntimeconfig.cache

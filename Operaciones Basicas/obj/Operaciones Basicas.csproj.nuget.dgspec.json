@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\OneDrive\\Escritorio\\HelloWorldC#\\HelloWorldC#.csproj": {}
+    "C:\\Users\\angel\\OneDrive\\Escritorio\\Proyectos_CS\\Operaciones Basicas\\Operaciones Basicas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\OneDrive\\Escritorio\\HelloWorldC#\\HelloWorldC#.csproj": {
+    "C:\\Users\\angel\\OneDrive\\Escritorio\\Proyectos_CS\\Operaciones Basicas\\Operaciones Basicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Escritorio\\HelloWorldC#\\HelloWorldC#.csproj",
-        "projectName": "HelloWorldC#",
-        "projectPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\HelloWorldC#\\HelloWorldC#.csproj",
+        "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Escritorio\\Proyectos_CS\\Operaciones Basicas\\Operaciones Basicas.csproj",
+        "projectName": "Operaciones Basicas",
+        "projectPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Proyectos_CS\\Operaciones Basicas\\Operaciones Basicas.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\HelloWorldC#\\obj\\",
+        "outputPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\Proyectos_CS\\Operaciones Basicas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
