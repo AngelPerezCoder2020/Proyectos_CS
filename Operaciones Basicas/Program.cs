@@ -69,14 +69,24 @@ namespace Operaciones_Basicas
             Console.ReadKey();
         }
         public void divi(double x, double y){
-            double r = x/y;
-            Console.WriteLine($" \nLa División entre {x} / {y} es: "+r);
-            Console.ReadKey();
+            if(y==0){
+                Console.WriteLine(" \nCuidado!! No Se Puede Dividir dentro de Cero!!");
+                Console.ReadKey();
+            }else{
+                double r = x/y;
+                Console.WriteLine($" \nLa División entre {x} / {y} es: "+r);
+                Console.ReadKey();
+            }
         }
         public void modu(double x, double y){
-            double r = x % y;
-            Console.WriteLine($" \nEl Módulo entre {x} % {y} es: "+r);
-            Console.ReadKey();
+            if(y==0){
+                Console.WriteLine(" \nCuidado!! No Se Puede Dividir dentro de Cero!!");
+                Console.ReadKey();
+            }else{
+                double r = x % y;
+                Console.WriteLine($" \nEl Módulo entre {x} % {y} es: "+r);
+                Console.ReadKey();
+            }
         }
     }
 }
