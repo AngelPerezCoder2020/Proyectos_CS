@@ -1,0 +1,13 @@
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\obj\Debug\netcoreapp3.1\Clasess.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\obj\Debug\netcoreapp3.1\Clasess.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\obj\Debug\netcoreapp3.1\Clasess.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\obj\Debug\netcoreapp3.1\Clasess.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\bin\Debug\netcoreapp3.1\Clasess.exe
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\bin\Debug\netcoreapp3.1\Clasess.deps.json
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\bin\Debug\netcoreapp3.1\Clasess.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\bin\Debug\netcoreapp3.1\Clasess.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\bin\Debug\netcoreapp3.1\Clasess.dll
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\bin\Debug\netcoreapp3.1\Clasess.pdb
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\obj\Debug\netcoreapp3.1\Clasess.dll
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\obj\Debug\netcoreapp3.1\Clasess.pdb
+C:\Users\angel\OneDrive\Escritorio\Proyectos_CS\Clasess\obj\Debug\netcoreapp3.1\Clasess.genruntimeconfig.cache
