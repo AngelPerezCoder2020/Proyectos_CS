@@ -16,7 +16,9 @@ namespace Clasess
             Boolean solve;
             int c = 0;
             Estudiantes[] lista = new Estudiantes[5];
-            while(c<2){
+            while(c<5){
+                Console.Clear();
+                Console.WriteLine("---Registro, Alumno Numero "+(c+1)+"---");
                 Console.WriteLine("Ingrese Nombre Del Alumno");
                 nombre = Console.ReadLine();
                 Console.WriteLine("Ingrese Edad Del Alumno");
@@ -38,16 +40,21 @@ namespace Clasess
                 lista[c]=estudiante;
                 c++;
             }
-            for(int x=0;x<2;x++){
-                Console.WriteLine(lista[x].nombre);
-                Console.WriteLine(lista[x].edad);
-                Console.WriteLine(lista[x].carnet);
-                Console.WriteLine(lista[x].solv);
-                Console.WriteLine(lista[x].curso.nombre);
-                Console.WriteLine(lista[x].curso.p1);
-                Console.WriteLine(lista[x].curso.p2);
-                Console.WriteLine(lista[x].curso.f);
+            for(int x=0;x<5;x++){
+                Console.WriteLine("--------------------");
+                Console.WriteLine("Alumno número: "+(x+1));
+                Console.WriteLine("--------------------");
+                Console.WriteLine("Nombre: "+lista[x].nombre);
+                Console.WriteLine("Edad: "+lista[x].edad);
+                Console.WriteLine("Carnet: "+lista[x].carnet);
+                Console.WriteLine("Solvencia: "+lista[x].solv);
+                Console.WriteLine("Nombre Del Curso: "+lista[x].curso.nombre);
+                Console.WriteLine("Nota Primer Parcial: "+lista[x].curso.p1);
+                Console.WriteLine("Nota Segundo Parcial: "+lista[x].curso.p2);
+                Console.WriteLine("Nota Final del Curso: "+lista[x].curso.f);
+                Console.WriteLine("");
             }
+            Console.ReadKey();
         }
     }
 }
